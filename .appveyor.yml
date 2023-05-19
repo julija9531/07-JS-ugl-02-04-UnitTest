@@ -1,4 +1,4 @@
-image: Visual Studio 2015 # образ для сборки
+image: MSBuild # образ для сборки
 stack: node 9 # окружение
 branches: 
     only: 
